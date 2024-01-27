@@ -10,6 +10,7 @@ const Hero = () => {
                   <div className="row">
                     <div className="col-lg-7">
                       <div className="header-text">
+                        
                         <h6>Welcome To Cyborg</h6>
                         <h4><em>Browse</em> Our Popular Games Here</h4>
 

@@ -18,20 +18,20 @@ const MostPopular = () => {
         // <!-- ***** Most Popular Start ***** -->
         
         <div className="most-popular">
-        <div className="row">
+            <div className="row">
 
-            <SectionHeader title1="Most Popular" title2="Right Now">
-              <div className="row">
-                  {games}
+                <SectionHeader title1="Most Popular" title2="Right Now">
+                <div className="row">
+                    {games}
 
                     <PrimaryButton>
                         Discover Popular
                     </PrimaryButton>    
-                    
-              </div>
-            </SectionHeader>
+                        
+                </div>
+                </SectionHeader>
 
-        </div>
+            </div>
         </div>
 
         // <!-- ***** Most Popular End ***** --> 
